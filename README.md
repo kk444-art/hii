@@ -3,6 +3,7 @@
 
 
 ELEKS
+
 Software Developer — 1.5 years
 Worked on commercial development projects
 Improved coding, debugging, and teamwork skills
@@ -17,6 +18,7 @@ Adapted quickly to team-based development environment
 
 
 dZENcode
+
 Internship / Stage — 6 weeks
 Gained practical experience in real development processes
 Worked with developers on test tasks and internal features
